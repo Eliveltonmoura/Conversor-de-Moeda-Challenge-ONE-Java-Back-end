@@ -168,7 +168,6 @@ public Double getEUR() {
     return getTaxa("EUR");
 }
 
-// Adicione novos métodos conforme necessário
 ```
 
 ## ⚠️ Limitações e Considerações
@@ -221,5 +220,9 @@ Para dúvidas ou problemas:
 3. Consulte os exemplos de uso acima
 
 ---
+![Logo](./img/Badge-Conversor.png)
+
+
+
 
 Desenvolvido com ❤️ para a comunidade de desenvolvedores Java
