@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class ConsultarMoeda {
 
-    private static final String API_KEY = "2e1d069db4c22c2329ff9ef3";
+    private static final String API_KEY = "**************";
     private static final HttpClient httpClient = HttpClient.newBuilder()
             .connectTimeout(Duration.ofSeconds(10))
             .build();
